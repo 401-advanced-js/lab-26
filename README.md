@@ -8,22 +8,14 @@
 ### Links and Resources
 * [repo](http://xyz.com)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
-
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+### Components
+Header, Footer, Counter
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* Fork this code sandbox at the top of this repo
+* Install dotenv, react, react-redux, react-dom, redux
+* Should work from there
   
 #### UML
 
+![Screenshot](./lab-26.jpg)

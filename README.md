@@ -6,7 +6,7 @@
 ### Author: Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [PR](https://github.com/shiratap/lab-26/pull/1)
 
 ### Components
 Header, Footer, Counter
